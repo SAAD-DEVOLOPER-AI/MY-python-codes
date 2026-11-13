@@ -1,0 +1,10 @@
+a=5
+b=5.6
+c="saad"
+d="s"
+e=True
+print(a)
+print(b)
+print(c)
+print(d)
+print(e)
